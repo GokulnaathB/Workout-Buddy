@@ -4,7 +4,7 @@ import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom"
 // The Route component to create a single route.
 // Navigate is for redirect.
 
-// pages & components
+// pages and components
 import Home from './pages/Home'
 import Login from "./pages/login"
 import Signup from "./pages/Signup"
