@@ -1,1 +1,1 @@
-export const apiUrl = 'https://calm-ocean-05509.herokuapp.com';
+export const apiUrl = 'https://coal-majestic-giant.glitch.me';
